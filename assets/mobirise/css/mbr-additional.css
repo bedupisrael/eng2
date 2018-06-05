@@ -1660,6 +1660,22 @@ body {
   text-align: right;
   color: #efefef;
 }
+.cid-qU7Tqi3G3D {
+  background-image: url("../../../assets/images/02.jpg");
+}
+.cid-qU7Tqi3G3D .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+}
+.cid-qU7Tqi3G3D .input-group-btn {
+  justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-qU7Tqi3G3D .content-container {
+    padding-right: 5rem;
+  }
+}
 .cid-qRgVfdDCRv {
   padding-top: 30px;
   padding-bottom: 30px;
